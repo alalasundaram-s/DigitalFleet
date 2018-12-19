@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "pagination": {
+      "page": 1,
+      "perPage": 10,
+      "totalPageCount": 3,
+      "totalRecordCount": 10
+    },
+    "sort": "eventTime"
+  },
+  "data": [
+    {
+      "truckId": 12,
+      "eventTime": "2018-12-19T09:08:32.707Z",
+      "latitude": 41.961628,
+      "longitude": -87.745166,
+      "speed": 87,
+      "heading": 0,
+      "street_number": "160 E Illinois St",
+      "route": "Chicago",
+      "intersection": "",
+      "city": "",
+      "county": "",
+      "state": "",
+      "postal_code": "60611",
+      "country": "USA",
+      "formattedAddress": "160 E Illinois St, Chicago, IL 60611, USA"
+    },
+    {
+      "truckId": 12,
+      "eventTime": "2018-12-19T09:08:42.707Z",
+      "latitude": 41.961728,
+      "longitude": -87.745366,
+      "speed": 87,
+      "heading": 0,
+      "street_number": "160 E Illinois St",
+      "route": "Chicago",
+      "intersection": "",
+      "city": "",
+      "county": "",
+      "state": "",
+      "postal_code": "60611",
+      "country": "USA",
+      "formattedAddress": "160 E Illinois St, Chicago, IL 60611, USA"
+    }
+  ]
+}
